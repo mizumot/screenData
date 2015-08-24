@@ -91,7 +91,8 @@ tags$div("Loading...",id="loadmessage")),
             strong('List of Packages Used'), br(),
             code('library(shiny)'),br(),
             code('library(shinyAce)'),br(),
-
+            code('library(tabplot)'),br(),
+            code('library(beeswarm)'),br(),
 
             br(),
 
